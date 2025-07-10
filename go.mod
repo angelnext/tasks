@@ -3,7 +3,7 @@ module github.com/angelnext/tasks
 go 1.18
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.1
+	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/matoous/go-nanoid v1.5.0
 )
 
